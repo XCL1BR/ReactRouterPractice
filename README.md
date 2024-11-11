@@ -29,6 +29,8 @@ This is a Job Portal application built with React and React Router, offering mul
 2. **Link/NavLink Tags**: Ensured smooth transitions with React's `Link` and `NavLink`.
 3. **useNavigate Hook**: Implemented for programmatic routing based on user actions.
 4. **Nested Routes**: Created nested routes for modular page organization.
+5. **Custom 404 Page**: Added a custom error page for unhandled routes.
+6. **React Router Loader**: Enhanced user experience with dynamic content loading.
 
 
 
@@ -49,6 +51,4 @@ This is a Job Portal application built with React and React Router, offering mul
 
 
 
-5. **Custom 404 Page**: Added a custom error page for unhandled routes.
-6. **React Router Loader**: Enhanced user experience with dynamic content loading.
 
