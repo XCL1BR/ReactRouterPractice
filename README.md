@@ -10,7 +10,7 @@ This is a Job Portal application built with React and React Router, offering mul
 - **useNavigate Hook**: Enables programmatic navigation for enhanced user flow.
 - **Nested Routes**: Supports nested components for better organization and modular structure.
 - **Custom 404 Page**: Displays a user-friendly 404 page for undefined routes.
-- **React Router Loader**: Ensures content loads dynamically based on routing.
+- **React Router Loader**: Ensures content loads dynamically based on routing. `npx json-server --watch data.json --port 5000` use this code to run the local API [data.json->(RightClick)->Intergrated Terminal(ThatCommand)->`npm run dev`]
 
 ## Technologies Used
 
