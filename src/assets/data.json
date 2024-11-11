@@ -1,0 +1,42 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Software Engineer",
+            "company": "XYZ Corp",
+            "location": "New York, NY",
+            "description": "We are looking for a software engineer with experience in React and Node.js. You will be responsible for developing new features and fixing bugs in our existing codebase. You will also be responsible for setting up new projects and contributing to our team's development efforts."
+        },
+        {
+            "id": 2,
+            "title": "Senior Software Engineer",
+            "company": "ABC Inc",
+            "location": "Los Angeles, CA",
+            "description": "We are looking for a senior software engineer with experience in React and Node.js. You will be responsible for leading the development of new features and fixing bugs in our existing codebase. You will also be responsible for setting up new projects and contributing to our team's development efforts."
+        },
+        {
+            "id": 3,
+            "title": "Frontend Developer",
+            "company": "DEF Co",
+            "location": "Chicago, IL",
+            "description": "We are looking for a frontend developer with experience in React and Node.js. You will be responsible for developing new features and fixing bugs in our existing codebase. You will also be responsible for setting up new projects and contributing to our team's development efforts."
+        },
+        {
+            "id": 4,
+            "title": "Backend Developer",
+            "company": "GHI Corp",
+            "location": "San Francisco, CA",
+            "description": "We are looking for a backend developer with experience in React and Node.js. You will be responsible for developing new features and fixing bugs in our existing codebase. You will also be responsible for setting up new projects and contributing to our team's development efforts."
+        },
+        {
+            "id": 5,
+            "title": "Product Manager",
+            "company": "JKL Co",
+            "location": "Seattle, WA",
+            "description": "We are looking for a product manager with experience in React and Node.js. You will be responsible for leading the development of new features and fixing bugs in our existing codebase. You will also be responsible for setting up new projects and contributing to our team's development efforts."
+        }
+    ]
+}
+
+
+
